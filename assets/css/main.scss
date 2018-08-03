@@ -3,4 +3,16 @@
 # only main files contain this front matter, not partials.
 ---
 
+$root-font-family: "Lato", Times New Roman, Arial, sans-serif;
+$large-font-size: 1rem !default;
+$root-line-height: 1.9 !default;
+
+$body-bg: #121111 !default;
+$body-color: #ada8a8 !default;
+$heading-color: #fff !default;
+$heading-font-family: "Lato", Courier, sans-serif;
+$title-font-family: "Cormorant Garamond", Courier, serif;
+
+$sidebar-width: 40% !default;
+
 @import "hydeout";
