@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          'A Journal'
+description:      'Siren Screams and Mighty Metal Thunder'
 url:              https://dangeng.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,7 +16,7 @@ baseurl:          ''
 
 author:
   name:           'Daniel Geng'
-  url:            https://twitter.com/fongandrewc
+  url:            'https://github.com/dangeng/'
 
 paginate:         5
 # paginate_path:    '/page:num'
