@@ -28,7 +28,7 @@ The summer of 2017 I visited Denver. There, on the 16th street mall I found brig
 Arriving at Berkeley after the summer, I told anybody who would listen about a potential public piano. The typical response went something like this:
 
 - Wow that sounds really cool
-- Wait, how would you get a piano>
+- Wait, how would you get a piano?
 - Wait, who would pay for it?
 - Wait, how would you transport it?
 - Wait, wouldn't it be vandalized?
